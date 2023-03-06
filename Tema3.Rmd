@@ -1,8 +1,8 @@
 ---
 title: "Tema 3"
 subtitle: Tratamiento de Datos. Grado en Ciencia de Datos- UV
-author: "Ruben Penya Sanchez"
-date:  "`r Sys.Date()`"  #Pondría la fecha del día actual
+author: "Ruben Penya Sanchez GRUPO A"
+date:  "`6/3/2023`"  #Pondría la fecha del día actual
  
 params:
   lang: ES
